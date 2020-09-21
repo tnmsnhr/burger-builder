@@ -12,4 +12,5 @@ You can find the most recent version of this guide [here](https://github.com/fac
 - Store data in Firebase realtime DB
 - Users can login or logout
 
-## Updating to New Releases
+## App Screenshot
+
