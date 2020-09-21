@@ -1,0 +1,17 @@
+.headline {
+    background: #241981;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    height: 50px;
+}
+
+.summaryLabel {
+    float: left;
+}
+
+.priceLabel {
+    float: right;
+}
