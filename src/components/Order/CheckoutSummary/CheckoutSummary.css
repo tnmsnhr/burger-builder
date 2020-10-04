@@ -8,9 +8,3 @@
     margin: 10 auto;
     color: #130C53;
 }
-
-@media (min-width: 600px) {
-    .CheckoutSummary {
-        width: 500px;
-    }
-}
