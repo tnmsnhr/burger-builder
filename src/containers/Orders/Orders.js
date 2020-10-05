@@ -11,9 +11,7 @@ class Orders extends Component {
 
     componentDidMount() {
         const token = localStorage.getItem('token')
-        this.props.onFetchOrders(token)
-        console.log(this.props.orders)
-        console.log(this.props.userId)
+        this.props.onFetchOrders(token,this.props.userId)
     }
 
     render() {
